@@ -5,3 +5,5 @@
 1. Refactor you model to use dropout during training. Look into `tf.layers.dropout`.
 1. Try creating a deeper network. How much does each layer decrease training speed? Think about ways to benchmark training times.
 1. How much faster is your p3 instance at training than your laptop? Compare training speeds.
+
+
